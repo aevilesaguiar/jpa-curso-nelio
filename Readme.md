@@ -116,6 +116,5 @@ Objeto monitorado é um objeto que você acabou de inserir, ou um objeto que voc
 
 - JPA
 - Hibernate
-- Postman
 - Maven
-- 
+
